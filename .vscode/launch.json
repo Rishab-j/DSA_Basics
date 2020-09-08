@@ -1,0 +1,511 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NextGreaterElementinBST",
+            "request": "launch",
+            "mainClass": "MIT.NextGreaterElementinBST",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BST",
+            "request": "launch",
+            "mainClass": "MIT.BST",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - test",
+            "request": "launch",
+            "mainClass": "MIT.test",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PeakFinder",
+            "request": "launch",
+            "mainClass": "MIT.PeakFinder",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MaxSqaureInMatrix",
+            "request": "launch",
+            "mainClass": "LeetCode.MaxSqaureInMatrix",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MaximumSumCircularSubArray",
+            "request": "launch",
+            "mainClass": "LeetCode.MaximumSumCircularSubArray",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QuickSort",
+            "request": "launch",
+            "mainClass": "Sorting.QuickSort",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MergeSort",
+            "request": "launch",
+            "mainClass": "Sorting.MergeSort",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InsertionSort",
+            "request": "launch",
+            "mainClass": "Sorting.InsertionSort",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BubbleSort",
+            "request": "launch",
+            "mainClass": "Sorting.BubbleSort",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RemoveKNumbers",
+            "request": "launch",
+            "mainClass": "LeetCode.RemoveKNumbers",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SelectionSort",
+            "request": "launch",
+            "mainClass": "Sorting.SelectionSort",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PixelsFloodFill",
+            "request": "launch",
+            "mainClass": "LeetCode.PixelsFloodFill",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DivisibleSumSubArray",
+            "request": "launch",
+            "mainClass": "CB.DivisibleSumSubArray",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ValidSquare",
+            "request": "launch",
+            "mainClass": "LeetCode.ValidSquare",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RotateImage",
+            "request": "launch",
+            "mainClass": "CB.RotateImage",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrimeVisits",
+            "request": "launch",
+            "mainClass": "CB.PrimeVisits",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Prime_Sieve",
+            "request": "launch",
+            "mainClass": "CB.Prime_Sieve",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GCD",
+            "request": "launch",
+            "mainClass": "CB.GCD",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TrailingZeroes",
+            "request": "launch",
+            "mainClass": "CB.TrailingZeroes",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MajorityElement",
+            "request": "launch",
+            "mainClass": "Array.MajorityElement",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Graph",
+            "request": "launch",
+            "mainClass": "GraphPractice.Graph",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Client",
+            "request": "launch",
+            "mainClass": "LinkedListPractice.Client",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Client",
+            "request": "launch",
+            "mainClass": "BinaryTrees.Client",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DjikstraAndPrims",
+            "request": "launch",
+            "mainClass": "graph.DjikstraAndPrims",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Questions",
+            "request": "launch",
+            "mainClass": "StackAndQueue.Questions",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Client",
+            "request": "launch",
+            "mainClass": "StackAndQueue.Client",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Client",
+            "request": "launch",
+            "mainClass": "GenericTrees.Client",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Client",
+            "request": "launch",
+            "mainClass": "HashMap.Client",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MinPalindromicCut",
+            "request": "launch",
+            "mainClass": "DP.MinPalindromicCut",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MinPalindromicCut",
+            "request": "launch",
+            "mainClass": "Recursion.MinPalindromicCut",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Questions",
+            "request": "launch",
+            "mainClass": "HashMap.Questions",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Questions",
+            "request": "launch",
+            "mainClass": "Heap.Questions",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HeapSort",
+            "request": "launch",
+            "mainClass": "Heap.HeapSort",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MatrixChainMul",
+            "request": "launch",
+            "mainClass": "DP.MatrixChainMul",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MatrixChainMultiplication",
+            "request": "launch",
+            "mainClass": "Recursion.MatrixChainMultiplication",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Heap",
+            "request": "launch",
+            "mainClass": "Heap.Heap",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GFG<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "Array.GFG",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TripletSum<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "Array.TripletSum",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CoinChange<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "DP.CoinChange",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GoldMine<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "DP.GoldMine",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LIS<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "DP.LIS",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxSizeSquareSubMatrix<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "DP.MaxSizeSquareSubMatrix",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MazePath<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "DP.MazePath",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinCost<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "DP.MinCost",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PalindromicSubstring<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "DP.PalindromicSubstring",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-knapsack<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "DP.knapsack",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pizza<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "HashCode.pizza",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedList<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "LinkedList.LinkedList",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Keypad<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "Practice.Keypad",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-minCost<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "Practice.minCost",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-stairsPathDP<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "Practice.stairsPathDP",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayofIndex<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "Recursion.ArrayofIndex",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BoardPath<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "Recursion.BoardPath",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BubbleSort<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "Recursion.BubbleSort",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CoinChange<JavaVSCode_beac6e45>(1)",
+            "request": "launch",
+            "mainClass": "Recursion.CoinChange",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FloodFill<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "Recursion.FloodFill",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GFG<JavaVSCode_beac6e45>(1)",
+            "request": "launch",
+            "mainClass": "Recursion.GFG",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KnightTour<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "Recursion.KnightTour",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KnightsTour<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "Recursion.KnightsTour",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestIncreasingSubsequence<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "Recursion.LongestIncreasingSubsequence",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Mazepath<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "Recursion.Mazepath",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NQueen<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "Recursion.NQueen",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NokiaKeypad<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "Recursion.NokiaKeypad",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PNC<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "Recursion.PNC",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SubSequence<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "Recursion.SubSequence",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TowerOfHanoi<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "Recursion.TowerOfHanoi",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-binaryTree<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "binaryTree.binaryTree",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-graph<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "graph.graph",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GenericTree<JavaVSCode_beac6e45>",
+            "request": "launch",
+            "mainClass": "lec23.GenericTree",
+            "projectName": "JavaVSCode_beac6e45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-binaryTree<JavaVSCode_beac6e45>(1)",
+            "request": "launch",
+            "mainClass": "lec24.binaryTree",
+            "projectName": "JavaVSCode_beac6e45"
+        }
+    ]
+}
